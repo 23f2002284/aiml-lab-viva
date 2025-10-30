@@ -5,7 +5,7 @@
 | 3. Pandas | [View](ListOperations.ipynb) | - |
 | 4. Basic Statistics | [View](ListOperations.ipynb) | - |
 | 5. ML Libraries Overview | [View](requirements.txt) | - |
-| 6. Linear Models | [Logistic Regression](classification_problems\logistic_regression.ipynb) | [Linear Regression](regression_problems/linear_regression/simple_linear_regression.ipynb) |
+| 6. Linear Models | [Logistic Regression](classification_problems/logistic_regression.ipynb) | [Linear Regression](regression_problems/linear_regression/simple_linear_regression.ipynb) |
 | 7. K-Nearest Neighbors | [KNN Classification](classification_problems/KNN_classification.ipynb) | [KNN Regression](regression_problems/non_linear_regression/KNN_regression.ipynb) |
 | 8. Decision Trees | [Decision Tree Classification](classification_problems/decision_tree_classification.ipynb) | [Decision Tree Regression](regression_problems/non_linear_regression/decision_tree_regression.ipynb) |
 | 9. Random Forest | [Random Forest Classification](classification_problems/random_forest_classification.ipynb) | [Random Forest Regression](regression_problems/ensemble_regression/random_forest_regression.ipynb) |
